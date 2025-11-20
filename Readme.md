@@ -1,5 +1,5 @@
 
-# Tutorial: Maharashtra-livestock-Analytics
+# Maharashtra-livestock-Analytics
 
 This project is an advanced system designed to **understand and track livestock** across *Maharashtra*. It acts like a "smart farm manager" that **collects diverse animal and farm data**, then *cleans and organizes* it. With this structured data, it can **analyze patterns, predict trends, and pinpoint areas** of interest using *location intelligence*. Finally, all these complex insights are transformed into **easy-to-understand reports and maps** for decision-makers.
 
