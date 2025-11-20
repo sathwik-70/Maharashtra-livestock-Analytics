@@ -28,10 +28,10 @@ flowchart TD
 
 ## Chapters
 
-1. [Livestock Data Model
+1. [Livestock Data Model]
 (01_livestock_data_model_.md)
 2. [Data Ingestion Pipeline
-(02_data_ingestion_pipeline_.md)
+](02_data_ingestion_pipeline_.md)
 3. [Analytics Engine
 ](03_analytics_engine_.md)
    [Geospatial Analysis & Mapping
